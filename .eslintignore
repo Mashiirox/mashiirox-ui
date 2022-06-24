@@ -1,0 +1,7 @@
+.eslintrc.js
+.prettierrc.js
+tailwind.config.js
+vite.config.ts
+postcss.config.js
+svgo.config.js
+dist/*
